@@ -1,0 +1,52 @@
+Persistencia de datos.
+Pérdida de progreso al reinstalar el juego "Journey" (Android)
+
+1. Descripción del problema
+
+Al reinstalar el juego, todo el progreso (niveles completados, logros, monedas) se pierde.
+
+La app no ofrece guardado en la nube ni vinculación con Google Play Games.
+
+El usuario debe empezar desde cero, lo cual genera frustración.
+
+2. Pasos para reproducir
+
+Instalar el juego desde Google Play.
+
+Jugar varios niveles.
+
+Desinstalar la aplicación.
+
+Volver a instalarla.
+
+Observar que no hay recuperación del progreso.
+
+3. Resultado esperado
+
+Que el progreso esté guardado en la nube o asociado a una cuenta.
+
+Que al reinstalar, el jugador pueda continuar donde quedó.
+
+4. Resultado actual
+
+El juego inicia como si fuera la primera vez.
+
+Todo el progreso se resetea.
+
+5. Impacto
+
+Baja retención de jugadores.
+
+Mala experiencia al cambiar de dispositivo.
+
+Usuarios que invierten tiempo pueden abandonar la app al perder lo avanzado.
+
+6. Recomendaciones
+
+Implementar guardado en la nube usando Google Play Games Services.
+
+Permitir login opcional con cuenta (Google, Facebook, email).
+
+Añadir advertencia clara al desinstalar o cerrar sesión.
+
+Sincronizar progreso automáticamente en cada nivel completado.
