@@ -1,0 +1,68 @@
+Análisis de Usabilidad – Cambio de Menú en la App de Mercado Libre (AR)
+
+Autor: Sofía Brandi
+Fecha: 30/11/2025
+Descripción: Evaluación del impacto en la experiencia del usuario tras el cambio del menú principal (“hamburger menu”) de la parte superior izquierda a la parte inferior derecha.
+
+1. Contexto
+
+La app de Mercado Libre Argentina realizó recientemente una actualización donde movió el menú principal (icono de tres líneas) desde la parte superior izquierda hacia la parte inferior derecha de la pantalla, junto a otros accesos directos.
+
+Este análisis evalúa el impacto de este cambio en la navegación.
+
+2. Hallazgos de usabilidad
+Hallazgo 1 – Disminución de la visibilidad del menú
+
+Descripción:
+Los usuarios de apps móviles suelen buscar el menú de navegación en la parte superior izquierda (estándar en Android) o superior derecha (estándar en iOS).
+El nuevo botón se encuentra abajo a la derecha, lo cual rompe el patrón esperado.
+
+Impacto:
+
+Aumenta el tiempo necesario para encontrar las opciones principales.
+
+Puede generar confusión en usuarios acostumbrados al diseño anterior.
+
+Da sensación de “cambio innecesario” para tareas habituales.
+
+Hallazgo 2 – Accesibilidad con una mano
+
+Descripción:
+El acceso con el pulgar a la parte inferior derecha es cómodo para usuarios diestros, pero difícil para usuarios zurdos.
+
+Impacto:
+
+Reduce la accesibilidad para un porcentaje significativo de usuarios.
+
+Puede percibirse como una decisión sesgada hacia un tipo de usuario.
+
+Hallazgo 3 – Inconsistencia con versiones anteriores
+
+Descripción:
+El cambio no fue anunciado ni explicado dentro de la app.
+No existe tutorial, pop-up explicativo ni onboarding.
+
+Impacto:
+
+El usuario se frustra al “perder” funciones que antes estaban en el lugar habitual.
+
+Aumenta la carga cognitiva.
+
+3. Sugerencias de mejora
+Recomendación 1
+
+Agregar una pequeña guía visual en la primera apertura después de actualizar (“El menú ahora está aquí”).
+
+Recomendación 2
+
+Permitir opción de personalización del menú (arriba / abajo).
+
+Recomendación 3
+
+Mantener iconografía estándar (tres líneas, tres puntos) en la parte superior.
+
+4. Conclusión
+
+El cambio de ubicación del menú principal en Mercado Libre genera impacto negativo en la experiencia del usuario por ruptura de patrones, accesibilidad desigual y falta de comunicación del cambio.
+
+Este análisis puede complementar pruebas funcionales y aportar insights de usabilidad para una mejora futura.
